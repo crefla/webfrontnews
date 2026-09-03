@@ -1,24 +1,24 @@
 {
-  "last_run_at": "2026-09-02T00:00:00Z",
+  "last_run_at": "2026-09-03T00:00:00Z",
   "sources": {
     "whatwg_html": {
       "url": "https://github.com/whatwg/html",
       "ref": "main",
-      "last_seen_sha": "f0e63b9f4df9b5c0e123ec4cf4375867cb0b4607",
-      "checked_at": "2026-09-02T00:00:00Z"
+      "last_seen_sha": "d57dd09ce7592f5c299c0b7d7c2257092525a3dd",
+      "checked_at": "2026-09-03T00:00:00Z"
     },
     "tc39_proposals": {
       "url": "https://github.com/tc39/proposals",
       "ref": "main",
       "path": "README.md",
       "last_seen_sha": "fc6a574ccef0886970ae40481ba73692218b7293",
-      "checked_at": "2026-09-02T00:00:00Z"
+      "checked_at": "2026-09-03T00:00:00Z"
     },
     "web_features": {
       "url": "https://github.com/web-platform-dx/web-features",
       "ref": "main",
-      "last_seen_sha": "11b7fe407191cc58ffee77554a0c31bd4282f917",
-      "checked_at": "2026-09-02T00:00:00Z"
+      "last_seen_sha": "e6f387c2333a6d9a9545f63c9f8444a3f67ac87c",
+      "checked_at": "2026-09-03T00:00:00Z"
     }
   }
 }
